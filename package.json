@@ -1,0 +1,24 @@
+{
+	"name": "node-autodns",
+	"version": "0.0.1",
+	"main": "index.js",
+	"dependencies": {
+		"async": "*",
+		"js2xmlparser": "0.1.*",
+		"xml2js": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SargTeX/node-autodns"
+	},
+	"bugs": {
+		"url": "https://github.com/SargTeX/node-autodns/issues"
+	},
+	"keywords": [
+		"autodns",
+		"internetx",
+		"client",
+		"api"
+	],
+	"private": false,
+}
