@@ -1,0 +1,9 @@
+{
+	"name": "node-autodns",
+	"version": "0.0.1",
+	"dependencies": {
+		"async": "*",
+		"js2xmlparser": "0.1.*",
+		"xml2js": "*"
+	}
+}
